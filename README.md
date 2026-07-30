@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biblioteca online | TecVirtual
 
 ## Gestão de livros físicos
@@ -30,3 +31,10 @@
 
 - O banco de dados será inicialmente feito em SQlite, podendo ter atualizações futuras.
 
+=======
+# biblioteca Virtual completo
+
+### Feita para o armazenamento, gestão e leitura de livros digitais.
+
+### Feita para a gestão e controle de livros físicos.
+>>>>>>> a833c5d1771627c6fdfea0cf7c4acea0142443a4

@@ -37,4 +37,11 @@
 ### Feita para o armazenamento, gestão e leitura de livros digitais.
 
 ### Feita para a gestão e controle de livros físicos.
->>>>>>> a833c5d1771627c6fdfea0cf7c4acea0142443a4
+
+=======
+
+# Melhorias futuras:
+
+ - Leitura de livros dinâmica, direto na página.
+ 
+ - espaço para postagem de leitura, compartilhando livros preferidos, de estudos, hobbies e tudo que for relacionado ao mundo dos livros e literatura.

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Biblioteca online | TecVirtual
 
 ## Gestão de livros físicos
@@ -43,5 +43,5 @@
 # Melhorias futuras:
 
  - Leitura de livros dinâmica, direto na página.
- 
+
  - espaço para postagem de leitura, compartilhando livros preferidos, de estudos, hobbies e tudo que for relacionado ao mundo dos livros e literatura.

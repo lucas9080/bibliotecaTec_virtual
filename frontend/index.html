@@ -7,7 +7,96 @@
 </head>
 <body>
 
-    <h1>Mionha biblioteca completa</h1>
+    <h1>Minha biblioteca completa</h1>
+
+   
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #2c3e50;
+      padding: 0 24px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .nav-logo {
+      color: #fff;
+      font-size: 1.25rem;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 32px;
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: #ecf0f1;
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: color 0.2s ease;
+    }
+
+    .nav-links a:hover {
+      color: #3498db;
+    }
+
+    /* Bolinha do perfil */
+    .profile-link {
+      display: flex;
+      align-items: center;
+    }
+
+    .profile-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #3498db;
+      transition: transform 0.2s ease;
+      cursor: pointer;
+    }
+
+    .profile-avatar:hover {
+      transform: scale(1.08);
+    }
+  </style>
+</head>
+
+    <nav>
+      <a href="#" class="nav-logo">Biblioteca</a>
+
+      <ul class="nav-links">
+        <li><a href="#">Livros emprestados</a></li>
+        <li><a href="#">Livros digitais</a></li>
+        <li>
+          <a href="#" class="profile-link" aria-label="Meu perfil">
+            <img
+              src="https://via.placeholder.com/40"
+              alt="Foto do perfil"
+              class="profile-avatar"
+            >
+          </a>
+        </li>
+      </ul>
+    </nav>
+  
     
 </body>
-</html>
